@@ -1,0 +1,7 @@
+h3>=4.0.0
+pandas>=2.0.0
+folium>=0.15.0
+pyproj>=3.5.0
+shapely>=2.0.0
+tqdm>=4.66.0
+sumolib>=1.19.0
