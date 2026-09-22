@@ -25,12 +25,6 @@ python -m pip install --upgrade pip
 python -m pip install -r requirements_h3_sumo.txt
 ```
 
-On Windows PowerShell, activate the virtual environment with:
-
-```powershell
-.venv\Scripts\Activate.ps1
-```
-
 ## Requirements
 
 * Python 3.10+
